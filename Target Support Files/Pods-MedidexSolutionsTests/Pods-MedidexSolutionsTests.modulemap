@@ -1,0 +1,6 @@
+framework module Pods_MedidexSolutionsTests {
+  umbrella header "Pods-MedidexSolutionsTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
